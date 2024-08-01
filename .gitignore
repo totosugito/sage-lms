@@ -1,8 +1,8 @@
 # root directory
 node_modules/
 files/
-#images/
-#videos/
+images/
+videos/
 package-lock.json
 .env
 
